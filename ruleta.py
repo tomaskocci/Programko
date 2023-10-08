@@ -1,3 +1,4 @@
+"""""rulete game"""
 import random
 money =int (input("Your money:"))
 while money>0:
